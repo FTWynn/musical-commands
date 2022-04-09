@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
+	"id": "obsidian-command-palette",
+	"name": "Obsidian Command Palette",
+	"version": "20220408",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "A Spacemacs inspired command palette for Obsidian.",
+	"author": "ftwynn",
+	"authorUrl": "https://github.com/FTWynn",
 	"isDesktopOnly": false
 }
